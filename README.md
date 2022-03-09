@@ -1,5 +1,7 @@
 # Who Uses Authenticator Extension
 
+All information listed here is searched by Google and accessible to the public.
+
 ## Government
 
 * The public's one account for government
