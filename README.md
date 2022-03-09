@@ -185,3 +185,11 @@
 * 1cloud
   + <https://1cloud.ru>
   + <https://1cloud.ru/help/security/ustanovka-prilozhenija-google-authenticator>
+
+* Deloitte
+  + <https://www.deloitte.com>
+  + <https://www2.deloitte.com/content/dam/Deloitte/be/Documents/tax/MBMC-%20Proc%C3%A9dure%20d'enregistrement%20(via%20Google%20Chrome)%20FR.pdf>
+
+* Autodesk
+  + <https://www.autodesk.com>
+  + <https://knowledge.autodesk.com/support/shotgrid/learn-explore/caas/CloudHelp/cloudhelp/ENU/SG-Administrator/files/ar-manage-accounts-prior-to-migrating/ar-two-factor-authentication/SG-Administrator-ar-two-factor-authentication-ar-two-factor-faq-html-html.html>
